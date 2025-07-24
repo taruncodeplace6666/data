@@ -1,0 +1,410 @@
+[
+  {
+    "Name": "FALCON DEGREE COLLEGE",
+    "Location": "58, COCKBURN ROAD, SHIVAJINAGAR, BANGALORE 560051",
+    "Latitude": 12.989721,
+    "Longitude": 77.603835
+  },
+  {
+    "Name": "BGS B-SCHOOL",
+    "Location": "NO 67,DR.VISHNUVARDHAN ROAD,KENGERI BENGALURU SOUTH -560060",
+    "Latitude": 12.911025,
+    "Longitude": 77.4864163
+  },
+  {
+    "Name": "CHRIST DEEMED TO BE UNIVERSITY BANNERGHATTA ROAD CAMPUS",
+    "Location": "HULIMAVU, BANNERGHATTA ROAD",
+    "Latitude": 12.8918571,
+    "Longitude": 77.5985624
+  },
+  {
+    "Name": "CHRIST DEEMED TO BE UNIVERSITY MAIN CAMPUS",
+    "Location": "HOSUR ROAD BENGALURU",
+    "Latitude": 12.9253462,
+    "Longitude": 77.6175939
+  },
+  {
+    "Name": "MQI COLLEGE OF MANAGEMENT",
+    "Location": "#8, BORE BANK ROAD, BENSON TOWN, BANGALORE - 560046",
+    "Latitude": 12.9944761,
+    "Longitude": 77.6055169
+  },
+  {
+    "Name": "NAGARJUNA DEGREE COLLEGE",
+    "Location": "#38/1, RAMAGONDANAHALLI, YELAHANKA,",
+    "Latitude": 13.1218108,
+    "Longitude": 77.5571592
+  },
+  {
+    "Name": "ACHARYA INSTITUTE OF MANAGEMENT AND SCIENCES",
+    "Location": "1ST STAGE, 1ST CROSS PEENYA INDUSTRIAL AREA BANGALORE",
+    "Latitude": 13.0280728,
+    "Longitude": 77.5231858
+  },
+  {
+    "Name": "M.E.I. POLYTECHNIC",
+    "Location": "VATAL NAGARAJ ROAD, 4TH BLOCK RAJAJINAGAR, BANGALORE",
+    "Latitude": 12.9846159,
+    "Longitude": 77.5538313
+  },
+  {
+    "Name": "GOVERNMENT TOOL ROOM AND TRAINING CENTRE",
+    "Location": "RAJAJINAGAR INDUSTRIAL ESTATE",
+    "Latitude": 12.9789899,
+    "Longitude": 77.5508226
+  },
+  {
+    "Name": "S.J. GOVT. POLYTECHNIC",
+    "Location": "SHESHADRI ROAD KR CIRCLE",
+    "Latitude": 12.9771006,
+    "Longitude": 77.5857758
+  },
+  {
+    "Name": "AL-KHATEEB GOVERNMENT AIDED POLYTECHNIC",
+    "Location": "BHOOPASANDRA RMV II STAGE BENGALURU",
+    "Latitude": 13.0420008,
+    "Longitude": 77.5782619
+  },
+  {
+    "Name": "DAYANANDA SAGAR ACADEMY OF TECHNOLOGY & MANAGEMENT TECHNICAL CAMPUS",
+    "Location": "UDAYAPURA KANAKAPURA ROAD BANGALORE URBAN DISTRICT, BANGALORE",
+    "Latitude": 12.8228206,
+    "Longitude": 77.5138097
+  },
+  {
+    "Name": "MAHARANI CLUSTER UNIVERSITY",
+    "Location": "SESHADRI ROAD",
+    "Latitude": 12.3149513,
+    "Longitude": 76.6478347
+  },
+  {
+    "Name": "CAMBRIDGE INSTITUTE OF TECHNOLOGY",
+    "Location": "K R PURAM",
+    "Latitude": 13.0088135,
+    "Longitude": 76.1078992
+  },
+  {
+    "Name": "ACHARYA INSTITUTE OF MANAGEMENT AND SCIENCES",
+    "Location": "1ST STAGE, 1ST CROSS PEENYA INDUSTRIAL AREA BANGALORE",
+    "Latitude": 13.0280728,
+    "Longitude": 77.5231858
+  },
+  {
+    "Name": "THE OXFORD COLLEGE OF ENGINEERING",
+    "Location": "HOSUR ROAD, BOMMANAHALLI,",
+    "Latitude": 12.9133501,
+    "Longitude": 77.6250993
+  },
+  {
+    "Name": "EAST WEST INSTITUTE OF POLYTECHNIC",
+    "Location": "NO.13, SECTOR\"A\" , YELAHANKA NEW TOWN, YELAHANKA, BANGALORE - 560064",
+    "Latitude": 13.0936251,
+    "Longitude": 77.5877437
+  },
+  {
+    "Name": "K.L.E'S, S.NIJALINGAPPA COLLEGE",
+    "Location": "2ND BLOCK, RAJAJINAGAR, BANGALORE",
+    "Latitude": 12.9946609,
+    "Longitude": 77.5532988
+  },
+  {
+    "Name": "BHUVAN POLYTECHNIC",
+    "Location": "VENKATALA, YELAHANKA BANGALORE",
+    "Latitude": 13.1122071,
+    "Longitude": 77.6026475
+  },
+  {
+    "Name": "VIVEKANANDA INSTITUTE OF MANAGEMENT",
+    "Location": "DR. RAJKUMAR ROAD, RAJAJINAGAR,II STAGE, BANGALORE - 560 055",
+    "Latitude": 13.0013301,
+    "Longitude": 77.5531155
+  },
+  {
+    "Name": "M P BIRLA INSTITUTE OF MANAGEMENT ASSOCIATE BHARATIYA VIDYA BHAVAN",
+    "Location": "# 43, RACE COURSE ROAD",
+    "Latitude": 12.9843046,
+    "Longitude": 77.5868049
+  },
+  {
+    "Name": "GS COLLEGE OF MANAGEMENT",
+    "Location": "9TH A CROSS, YELAHANKA NEW TOWN, BENGALURU, KA, INDIA",
+    "Latitude": 13.0962068,
+    "Longitude": 77.5858419
+  },
+  {
+    "Name": "JYOTI NIVAS COLLEGE (MBA)",
+    "Location": "HOSUR ROAD, BANGALORE",
+    "Latitude": 12.9253462,
+    "Longitude": 77.6175939
+  },
+  {
+    "Name": "THE OXFORD COLLEGE OF HOTEL MANAGEMENT",
+    "Location": "J P NAGAR I PHASE",
+    "Latitude": 12.9118413,
+    "Longitude": 77.5905671
+  },
+  {
+    "Name": "KLE SOCIETY'S S NIJALINGAPPA COLLEGE",
+    "Location": "2ND BLOCK, RAJAJINAGAR BANGALORE",
+    "Latitude": 12.9946609,
+    "Longitude": 77.5532988
+  },
+  {
+    "Name": "CITY ENGINEERING COLLEGE",
+    "Location": "DODDAKALLASANDRA, KANAKAPURA ROAD, BANGALORE.",
+    "Latitude": 12.8846245,
+    "Longitude": 77.5527796
+  },
+  {
+    "Name": "ACHARYA INSTITUTE OF MANAGEMENT AND SCIENCES",
+    "Location": "1ST STAGE, 1ST CROSS PEENYA INDUSTRIAL AREA BANGALORE",
+    "Latitude": 13.0280728,
+    "Longitude": 77.5231858
+  },
+  {
+    "Name": "SESHADRIPURAM COLLEGE",
+    "Location": "NO. 27, NAGAPPA STREET, SESHADRIPURAM, BENGALURU 560020",
+    "Latitude": 12.9887016,
+    "Longitude": 77.5756479
+  },
+  {
+    "Name": "JYOTI NIVAS COLLEGE (MCA)",
+    "Location": "HOSUR ROAD BANGALORE",
+    "Latitude": 12.9253462,
+    "Longitude": 77.6175939
+  },
+  {
+    "Name": "ABBS SCHOOL OF MANAGEMENT",
+    "Location": "Y",
+    "Latitude": 49.8031514,
+    "Longitude": 2.9906764
+  },
+  {
+    "Name": "VET FIRST GRADE COLLEGE",
+    "Location": "NO 18 14TH MAIN 2ND PHASE JP NAGAR",
+    "Latitude": 12.9082801,
+    "Longitude": 77.5918802
+  },
+  {
+    "Name": "RASTA CENTER FOR ROAD TECHNOLOGY",
+    "Location": "PHASE 1, PEENYA INDUSTRIAL AREA",
+    "Latitude": 13.0160478,
+    "Longitude": 77.5045057
+  },
+  {
+    "Name": "ST. JOSEPH'S COLLEGE OF COMMERCE",
+    "Location": "163 BRIGADE ROAD",
+    "Latitude": 12.9699123,
+    "Longitude": 77.6074893
+  },
+  {
+    "Name": "B.M.S. COLLEGE FOR WOMEN",
+    "Location": "BUGLE ROCK RD, BASAVANAGUDI, BENGALURU",
+    "Latitude": 12.943686,
+    "Longitude": 77.5723612
+  },
+  {
+    "Name": "SESHADRIPURAM INSTITUTE OF COMMERCE AND MANAGEMENT",
+    "Location": "#40, GIRLS SCHOOL STREET, SESHADRIPURAM, BENGALURU.",
+    "Latitude": 12.9900029,
+    "Longitude": 77.5763264
+  },
+  {
+    "Name": "MLA ACADEMY OF HIGHER LEARNING",
+    "Location": "14TH CROSS MALLESWARAM BANGALORE",
+    "Latitude": 13.0047149,
+    "Longitude": 77.5770348
+  },
+  {
+    "Name": "RPA FIRST GRADE COLLEGE",
+    "Location": "CA2,70TH CROSS, RAJAJINAGAR, BANGALORE",
+    "Latitude": 12.9812723,
+    "Longitude": 77.5541831
+  },
+  {
+    "Name": "VIJAYA COLLEGE",
+    "Location": "RV ROAD, BASAVANAGUDI, BANGALORE",
+    "Latitude": 12.9459168,
+    "Longitude": 77.5799752
+  },
+  {
+    "Name": "VIJAYA COLLEGE JAYANAGAR",
+    "Location": "35/1 11TH MAIN ROAD 4TH BLOCK JAYANAGAR",
+    "Latitude": 12.9286939,
+    "Longitude": 77.5860739
+  },
+  {
+    "Name": "VIVEKANANDA INSTITUTE OF MANAGEMENT",
+    "Location": "DR. RAJKUMAR ROAD, RAJAJINAGAR, II STAGE",
+    "Latitude": 13.0013301,
+    "Longitude": 77.5531155
+  },
+  {
+    "Name": "SESHADRIPURAM EVENING COLLEGE",
+    "Location": "NO.27, NAGAPPA STREET, SESHADRIPURAM",
+    "Latitude": 12.996863,
+    "Longitude": 77.5782526
+  },
+  {
+    "Name": "ST.ANNE'S DEGREE COLLEGE FOR WOMEN",
+    "Location": "NO 23, CAMBRIDGE ROAD, HALASURU",
+    "Latitude": 12.9709964,
+    "Longitude": 77.6278632
+  },
+  {
+    "Name": "JYOTI NIVAS COLLEGE AUTONOMOUS",
+    "Location": "HOSUR ROAD KORAMANGALA",
+    "Latitude": 12.9334163,
+    "Longitude": 77.6129264
+  },
+  {
+    "Name": "GOVT. R.C. EVENING COLLEGE",
+    "Location": "RACE COURSE ROAD BANGALORE",
+    "Latitude": 12.9813402,
+    "Longitude": 77.575178
+  },
+  {
+    "Name": "GOVERNMENT FIRST GRADE COLLEGE VARTHUR",
+    "Location": "MADHURANAGARA 3RD STAGE, VARTHUR, BANGALORE 560087",
+    "Latitude": 12.9409303,
+    "Longitude": 77.7592972
+  },
+  {
+    "Name": "BALDWIN WOMEN'S METHODIST COLLEGE",
+    "Location": "#90, RICHMOND ROAD",
+    "Latitude": 51.4109591,
+    "Longitude": -0.2354437
+  },
+  {
+    "Name": "SESHADRIPURAM ACADEMY OF BUSINESS STUDIES",
+    "Location": "# 18, 3RD MAIN ROAD KENGERI SATELLITE TOWN BENGALURU",
+    "Latitude": 12.9129784,
+    "Longitude": 77.4800715
+  },
+  {
+    "Name": "GOVERNMENT FIRST GRADE COLLEGE",
+    "Location": "GOVERNMENT FIRST GRADE COLLEGE, VIJAYANAGAR",
+    "Latitude": 15.2688542,
+    "Longitude": 76.3909242
+  },
+  {
+    "Name": "GOVERNMENT FIRST GRADE COLLEGE",
+    "Location": "K R PURAM",
+    "Latitude": 13.0088135,
+    "Longitude": 76.1078992
+  },
+  {
+    "Name": "THE NATIONAL COLLEGE",
+    "Location": "PAMPA MAHAKAVI ROAD BASAVANAGUDI",
+    "Latitude": 12.9508149,
+    "Longitude": 77.5722835
+  },
+  {
+    "Name": "RBANMS FIRST GRADE COLLEGE",
+    "Location": "#12, ANNASWAMY MUDALIAR ROAD",
+    "Latitude": 12.9844555,
+    "Longitude": 77.6179431
+  },
+  {
+    "Name": "GOODWILL CHRISTIAN COLLEGE FOR WOMEN",
+    "Location": "NO. 10, PROMENADE ROAD, FRAZER TOWN",
+    "Latitude": 12.9935086,
+    "Longitude": 77.6113806
+  },
+  {
+    "Name": "MOUNT CARMEL COLLEGE AUTONOMOUS",
+    "Location": "NO 58 PALACE ROAD",
+    "Latitude": 51.3997523,
+    "Longitude": -0.3066015
+  },
+  {
+    "Name": "EAST POINT COLLEGE OF MANAGEMENT",
+    "Location": "#10 , 2ND BLOCK , HRBR LAYOUT KALYAN NAGAR",
+    "Latitude": 13.0234478,
+    "Longitude": 77.6282108
+  },
+  {
+    "Name": "GOVERNMENT FIRST GRADE COLLEGE RAJAJINAGAR BENGALURU",
+    "Location": "S NIJALINGAPPA ROAD",
+    "Latitude": 12.9927681,
+    "Longitude": 77.5526209
+  },
+  {
+    "Name": "JINDAL COLLEGE FOR WOMEN",
+    "Location": "JINDAL NAGAR TUMKUR ROAD BANGALORE",
+    "Latitude": 13.0529868,
+    "Longitude": 77.4880931
+  },
+  {
+    "Name": "KAIRALEE NIKETHAN GOLDEN JUBILEE DEGREE COLLEGE",
+    "Location": "NO.181 9TH CROSS INDIRANAGAR 1ST STAGE BANGALORE",
+    "Latitude": 12.9803594,
+    "Longitude": 77.6392154
+  },
+  {
+    "Name": "GOVERNMENT FIRST GRADE COLLEGE MALLESHWARAM",
+    "Location": "18TH CROSS, MALLESHWARAM",
+    "Latitude": 13.0087884,
+    "Longitude": 77.5660713
+  },
+  {
+    "Name": "CHARANS DEGREE COLLEGE",
+    "Location": "NO 326 1ST MAIN CAMBRIDGE LAYOUT HALASURU BANGALORE",
+    "Latitude": 12.9724314,
+    "Longitude": 77.6260906
+  },
+  {
+    "Name": "GOVERNMENT ARTS COLLEGE",
+    "Location": "DR. B R AMBEDKAR VEEDHI,",
+    "Latitude": 12.9795676,
+    "Longitude": 77.5920942
+  },
+  {
+    "Name": "SHASHIB COLLEGE",
+    "Location": "#38-39,PRESTIGE",
+    "Latitude": 46.0230643,
+    "Longitude": 16.9834028
+  },
+  {
+    "Name": "SURANA COLLEGE AUTONOMOUS",
+    "Location": "NO 16 SOUTH END ROAD BANGALORE SOUTH",
+    "Latitude": 12.9175497,
+    "Longitude": 77.5768543
+  },
+  {
+    "Name": "SURANA EVENING COLLEGE OF COMMERCE AND MANAGEMENT",
+    "Location": "NO 16 SOUTHEND ROAD",
+    "Latitude": 51.5952198,
+    "Longitude": 0.0132676
+  },
+  {
+    "Name": "ST.GEORGE COLLEGE OF MANAGEMENT & SCIENCE",
+    "Location": "OMBR LAYOUT, BANASWADI, BANGALORE - 560 043",
+    "Latitude": 13.0082113,
+    "Longitude": 77.652778
+  },
+  {
+    "Name": "ST GEORGE COLLEGE OF MANAGEMENT AND SCIENCE",
+    "Location": "OMBR LAYOUT, BANASWADI, BANGALORE",
+    "Latitude": 13.0082113,
+    "Longitude": 77.652778
+  },
+  {
+    "Name": "B M S EVENING COLLEGE OF ARTS AND COMMERCE",
+    "Location": "BUGLE ROCK ROAD, BASAVANAGUDI, BANGALORE 560004",
+    "Latitude": 12.943686,
+    "Longitude": 77.5723612
+  },
+  {
+    "Name": "BASAVESHWARA COLLEGE OF COMMERCE ARTS AND SCIENCE",
+    "Location": "2ND BLOCK RAJAJINAGAR",
+    "Latitude": 12.9946609,
+    "Longitude": 77.5532988
+  },
+  {
+    "Name": "OUR LADY OF BON SECOURS DEGREE COLLEGE",
+    "Location": "NO. 2, CAMPBELL ROAD, AUSTIN TOWN,",
+    "Latitude": 12.9650529,
+    "Longitude": 77.6099228
+  }
+]
